@@ -1,6 +1,10 @@
 # Hi there! I'm FlowFalcon 👋
 
-[![Banner](https://api.bnrs.dev/banners/FlowFalcon-dark?a=uszlq7)](https://github.com/hurtki/github-banners)
+<div align="center">
+  <a href="https://github.com/hurtki/github-banners" target="_blank">
+    <img src="https://api.bnrs.dev/banners/FlowFalcon-dark?a=j8yh98" alt="Banner" />
+  </a>
+</div>
 
 Welcome to my GitHub profile! Here, you'll find some of my cool projects related to web development, game development, and API integrations. I'm passionate about coding, creating interactive experiences, and sharing knowledge with the community.
 
