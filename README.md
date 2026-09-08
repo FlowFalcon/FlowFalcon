@@ -43,6 +43,17 @@ A responsive storefront template powered by plain HTML, CSS, JavaScript, and edi
 
 An Agent Skill that keeps AI-assisted code focused, repository-native, proportional, and honest.
 
+## `project runway`
+
+<p align="center">
+  <a href="https://github.com/FlowFalcon/Modern-LinkTree"><img src="./assets/projects/modern-linktree.jpg" alt="Modern-LinkTree interface preview" width="49%" /></a>
+  <a href="https://github.com/FlowFalcon/ModernShop"><img src="./assets/projects/modern-shop.png" alt="ModernShop interface preview" width="49%" /></a>
+</p>
+
+<p align="center">
+  <sub><strong>Modern-LinkTree</strong> — profile page with music &nbsp;·&nbsp; <strong>ModernShop</strong> — JSON-driven storefront</sub>
+</p>
+
 ## `cockpit`
 
 <p>
@@ -62,6 +73,16 @@ const build = {
   license: "open source"
 };
 ```
+
+## `telemetry`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FlowFalcon&theme=github_dark" alt="FlowFalcon contribution activity" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FlowFalcon&hide_border=true&background=07111F&ring=57E6D1&fire=FFBD59&currStreakLabel=57E6D1&sideLabels=D7E5EF&dates=8FB3D1&currStreakNum=F5F8FC&sideNums=F5F8FC" alt="FlowFalcon GitHub contribution streak" />
+</p>
 
 ## `open channel`
 
